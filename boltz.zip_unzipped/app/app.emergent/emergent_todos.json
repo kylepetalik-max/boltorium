@@ -1,0 +1,30 @@
+[
+  {
+    "content": "Wire tier earn_multiplier into /rides/finish (Free=1x, Pro=1.25x, VIP=1.5x)",
+    "status": "completed"
+  },
+  {
+    "content": "Wire tier staking_apy_max into /staking/stake with helpful 403 upgrade message",
+    "status": "completed"
+  },
+  {
+    "content": "Add tier bonus to airdrop claims (Pro=1.1x, VIP=1.25x) + challenge rewards",
+    "status": "completed"
+  },
+  {
+    "content": "Add Governance tab to Admin dashboard (finalize/execute proposals)",
+    "status": "completed"
+  },
+  {
+    "content": "Update Profile page to show tier badge + 4 active perks cards",
+    "status": "completed"
+  },
+  {
+    "content": "Run testing_agent_v3 end-to-end: 95.7% pass, no critical bugs",
+    "status": "completed"
+  },
+  {
+    "content": "Update CHANGELOG",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,10 @@
+.App { min-height: 100vh; }
+
+.fade-in { animation: fadeIn 0.4s ease-out; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+
+.rare-glow-common { box-shadow: 0 0 0 1px rgba(160,160,160,0.4) inset, 0 0 16px rgba(160,160,160,0.15); border-color: rgba(160,160,160,0.5) !important; }
+.rare-glow-uncommon { box-shadow: 0 0 0 1px rgba(0,230,77,0.6) inset, 0 0 22px rgba(0,230,77,0.25); border-color: rgba(0,230,77,0.7) !important; }
+.rare-glow-rare { box-shadow: 0 0 0 1px rgba(30,144,255,0.6) inset, 0 0 26px rgba(30,144,255,0.3); border-color: rgba(30,144,255,0.7) !important; }
+.rare-glow-epic { box-shadow: 0 0 0 1px rgba(255,51,204,0.6) inset, 0 0 30px rgba(255,51,204,0.35); border-color: rgba(255,51,204,0.7) !important; }
+.rare-glow-legendary { box-shadow: 0 0 0 1px rgba(255,215,0,0.65) inset, 0 0 40px rgba(255,215,0,0.45); border-color: rgba(255,215,0,0.8) !important; }
